@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44480",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/home/goat/StageAlgoConsulting/TRYYUIXU/ChatApp/ChatApp/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}
